@@ -81,7 +81,24 @@ public class App {
                         .salario(3000.00).build()
         };
 
-        /* */
+        /* Recorrer los arrays
+         * 
+         * Sentencias de control de flujo (if, switch case, for clasico, 
+         * for mejorado (MAL LLAMADO FOR EACH), 
+         * while, do while, break, continue, y los operadores de auto incremento
+         * y auto decremento, ademas de los operadores logicos )
+         */
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }
